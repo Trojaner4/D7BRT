@@ -1,3 +1,5 @@
+# Copyright 2023: Jan Joshua Laub, Rajan Zhabjaku
+
 import sounddevice as sd
 import numpy as np
 import tkinter as tk

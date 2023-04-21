@@ -7,6 +7,7 @@ import os
 fs = 44100
 duration = 1
 VOLUME_FILE = 'volume.txt'
+DEFAULT_VOLUME = 0
 def toggle_dark_mode():
     if root.cget('bg') == 'white':
         root.config(bg='black')
